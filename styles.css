@@ -1,3 +1,17 @@
+p#link{
+        font-family: "Prata", system-ui;
+        font-weight: 400;
+        font-style: normal;      
+
+        font-family: "Poppins", system-ui;
+        font-weight: 100;
+        font-style: normal;
+
+        font-family: "Arapey", system-ui;
+        font-weight: 400;
+        font-style: normal;
+}
+
 .cabecalho {
     display: flex;
     justify-content: space-between;
@@ -32,4 +46,15 @@
 body {
     margin: 0px;
     background-color: #e9ffe8;
+}
+
+.inicio_titulo{
+    display: inline-block;
+    width: 40%;
+    font-size: 100px;
+    padding: 10px 70px;
+    color:#012a4a;
+    font-family: "Prata";
+    font-style: italic;
+    text-transform: uppercase;
 }
