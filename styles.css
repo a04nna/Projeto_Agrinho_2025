@@ -25,6 +25,7 @@ p#link{
     width: 40%;
     align-items: left;
     margin: 10px 10px;
+    border-radius: 24px;
 }
 
 .cabecalho_item{
