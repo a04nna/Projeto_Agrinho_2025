@@ -13,15 +13,16 @@
 }
 
 .titulo_inicio{
-    font-size: 40px;
+    font-size: 60px;
     color: #1a3c2f;
 }
 
 .texto_inicio{
-    font-size: 20px;
+    font-size: 30px;
     margin: 10px auto 30px;
     color: rgb(2, 41, 4);
     line-height: 1.5;
+    border: 50px 50px 50px 50px;
 }
 
 .botao_inicio{
@@ -30,12 +31,12 @@
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
-    font-size: 15px;
+    font-size: 20px;
     cursor: pointer;
     margin-bottom: 40px;
     transition: background-color 0.3 ease;
 }
 
-.botao_inicio a:hover{
-    color:#4ec540;
+.botao_inicio:hover{
+    background-color:#4ec540;
 }
