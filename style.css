@@ -1,0 +1,40 @@
+.body_inicio{
+    background-color: #fff9f1;
+    text-align: center;
+}
+
+.inicio{
+    padding: 40px 20px 20px;
+}
+
+.inicio_img{
+    margin-bottom: 20px;
+}
+
+.titulo_inicio{
+    font-size: 2.2rem;
+    color: #1a3c2f;
+}
+
+.texto_inicio{
+    font-size: 1.1rem;
+    margin: 10px auto 30px;
+    color: rgb(2, 41, 4);
+    line-height: 1.5;
+}
+
+.botao_inicio{
+    background-color: #349329;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 8px;
+    font-size: 1rem;
+    cursor: pointer;
+    margin-bottom: 40px;
+    transition: background-color 0.3 ease;
+}
+
+.botao_inicio a:hover{
+    background-color:#4ec540;
+}
