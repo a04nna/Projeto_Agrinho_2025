@@ -17,7 +17,7 @@ body{
 }
 
 .titulo_inicio{
-    font-size: 3.5rem;
+    font-size: 4rem;
     color: #1a3c2f;
     text-transform: uppercase;
     border: 20px 5px 10px 5px;
@@ -36,7 +36,7 @@ body{
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     cursor: pointer;
     margin-bottom: 40px;
     text-decoration: none;
