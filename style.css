@@ -24,7 +24,7 @@ body{
 
 .titulo_inicio{
     font-size: 4rem;
-    color: var(--verde_texto);
+    color: #1a3c2f;
     text-transform: uppercase;
     margin: 50px 5px 10px 5px;
 }
@@ -32,14 +32,14 @@ body{
 .texto_inicio{
     font-size: 1.7rem;
     margin: 30px 200px 30px 200px;
-    color: var(--verde_texto);
+    color: #1a3c2f;
     line-height: 1.5;
 }
 
 .botao_inicio{
-    background-color: var(--verde);
+    color: #fff1de;
+    background-color: #349329;
     border: none;
-    color: var(--fundo);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -49,7 +49,7 @@ body{
 }
 
 .botao_inicio:hover {
-  background-color: var(--fundo); 
-  color: var(--verde); 
-  border: 2px solid var(--verde);
+  background-color: #fff1de; 
+  color: #349329; 
+  border: 2px solid #349329;
 }
