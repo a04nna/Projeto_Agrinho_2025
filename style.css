@@ -158,6 +158,10 @@ h2 {
   color: #fff1de;
 }
 
+footer{
+  display: flex;
+}
+
 footer a{
   font-size: 1rem;
   text-decoration: none;
