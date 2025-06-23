@@ -1,3 +1,9 @@
+.root{
+    --verde:#349329; 
+    --fundo:#fff1de;
+    --verde_texto:#1a3c2f;
+}
+
 body{
     margin: 0;
 }
@@ -32,16 +38,18 @@ body{
 
 .botao_inicio{
     text-decoration: none;
-    background-color: #349329;
-    color: white;
+    background-color: var(--fundo) ;
+    color: var(--verde);
     padding: 12px 24px;
     border: none;
     border-radius: 8px;
     font-size: 1.3rem;
     cursor: pointer;
     margin-bottom: 40px;
+    transition-duration: 0.4s;
 }
 
 .botao_inicio:hover{
-    background-color:#4ec540;
+    background-color:var(--verde);
+    color: var(--fundo);
 }
