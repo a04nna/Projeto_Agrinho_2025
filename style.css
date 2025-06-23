@@ -45,7 +45,9 @@ body{
 }
 
 .ondinha{
-    height: 10px;
+    width: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
