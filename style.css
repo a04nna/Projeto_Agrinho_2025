@@ -28,6 +28,7 @@ body{
 }
 
 .botao_inicio a{
+  font-size: 1.2rem;
   text-decoration: none;
   color: #349329;
   font-weight: bold;
@@ -42,18 +43,6 @@ body{
 .botao_inicio a:hover {
   background-color: #349329;
   color: #fff1de;
-}
-
-.ondinha{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.onda_img{
-  height: 100px; 
-      margin-top: 20px;
-    margin-bottom: 20px;
 }
 
 .caminho {
