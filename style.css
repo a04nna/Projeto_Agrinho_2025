@@ -105,7 +105,7 @@ h2 {
   color: #333;
 }
 
-.campo img {
+.campo_img {
   width: 200px;
   margin-top: 1rem;
 }
@@ -172,6 +172,7 @@ footer a{
   display: inline-block;
   margin: 10px 50px 50px 50px;
   align-items: center;
+  display: flex;
 }
 
 footer a:hover {
