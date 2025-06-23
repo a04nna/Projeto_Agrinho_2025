@@ -31,6 +31,7 @@ body{
 }
 
 .botao_inicio{
+    text-decoration: none;
     background-color: #349329;
     color: white;
     padding: 12px 24px;
@@ -39,7 +40,6 @@ body{
     font-size: 1.5rem;
     cursor: pointer;
     margin-bottom: 40px;
-    text-decoration: none;
 }
 
 .botao_inicio:hover{
