@@ -147,14 +147,14 @@ h2 {
   display: flex;
 }
 
-.projetos h4{
+.cidade-ex h4{
   font-size: 1.5rem;
   margin-top: 0.5rem;
   margin-bottom: 0.5rem;
   color: #1a3c2f;
 }
 
-.projetos img{
+.cidade-ex img{
   width: 200px;
   margin-bottom: 0rem;
 }
