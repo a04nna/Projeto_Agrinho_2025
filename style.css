@@ -20,7 +20,7 @@ body{
     font-size: 4rem;
     color: #1a3c2f;
     text-transform: uppercase;
-    border: 20px 5px 10px 5px;
+    margin: 20px 5px 10px 5px;
 }
 
 .texto_inicio{
