@@ -9,8 +9,9 @@ body{
 }
 
 .inicio_img{
-    margin-bottom: 10px;
-    border-radius: 8px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius: 8px;
 }
 
 .titulo_inicio{
@@ -48,6 +49,7 @@ body{
 .caminho {
   text-align: center;
   margin: 3rem 0;
+  margin-top: 20px;
 }
 
 h2 {
