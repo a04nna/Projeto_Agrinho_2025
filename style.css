@@ -40,18 +40,16 @@ body{
     background-color: var(--verde);
     border: none;
     color: var(--fundo);
-    padding: 16px 32px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
-    font-size: 16px;
-    margin: 4px 2px;
+    font-size: 1.3rem;
     transition-duration: 0.4s;
     cursor: pointer;
 }
 
-.botao_inicio:hover{
+.botao_inicio:hover {
   background-color: var(--fundo); 
-  color: var(--verde_texto); 
+  color: var(--verde); 
   border: 2px solid var(--verde);
 }
