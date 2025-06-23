@@ -32,24 +32,26 @@ body{
 .texto_inicio{
     font-size: 1.7rem;
     margin: 30px 200px 30px 200px;
-    color: rgb(2, 41, 4);
+    color: var(--verde_texto);
     line-height: 1.5;
 }
 
 .botao_inicio{
-    text-decoration: none;
-    background-color: var(--fundo) ;
-    color: var(--verde);
-    padding: 12px 24px;
+    background-color: var(--verde);
     border: none;
-    border-radius: 8px;
-    font-size: 1.3rem;
-    cursor: pointer;
-    margin-bottom: 40px;
+    color: var(--fundo);
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
     transition-duration: 0.4s;
+    cursor: pointer;
 }
 
 .botao_inicio:hover{
-    background-color:var(--verde);
-    color: var(--fundo);
+  background-color: var(--fundo); 
+  color: var(--verde_texto); 
+  border: 2px solid var(--verde);
 }
