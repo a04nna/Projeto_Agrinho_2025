@@ -31,22 +31,23 @@ body{
 }
 
 .botao_inicio{
-  background-color: #349329; /* Verde */
-  color: #fff1de;
-  border: none;
-  padding: 15px 30px;
-  font-size: 16px;
-  border-radius: 5px;
-  cursor: pointer;
-  transition: background-color 0.3s ease, transform 0.2s ease;
+    text-decoration: none;
+    background-color: #349329; 
+    color: #fff1de;
+    border: none;
+    padding: 15px 30px;
+    font-size: 16px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
 .botao_inicio:hover {
-  background-color: #fff1de; /* Verde mais escuro */
-  border: #349329;
-  color: #349329;
-  border-radius: 5px;
-  transform: scale(1.05);
+    background-color: #fff1de; 
+    border: #349329;
+    color: #349329;
+    border-radius: 5px;
+    transform: scale(1.05);
 }
 
 .ondinha{
