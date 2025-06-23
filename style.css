@@ -160,9 +160,15 @@ h2 {
 }
 
 footer {
+  font-size: 0.5rem;
   text-decoration: none;
-  text-align: center;
-  margin: 3rem 0 1rem 0;
-  font-size: 0.9rem;
-  color: #1a3c2f;
+  color: #7c7c7c;
+  font-weight: bold;
+  border: none;
+  padding: 0.3rem 1rem;
+  display: inline-block;
+  margin: 10px 50px 50px 50px;
 }
+
+footer a:hover {
+  color: rgb(197, 197, 197);}
