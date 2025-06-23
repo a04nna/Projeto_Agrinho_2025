@@ -32,9 +32,9 @@ body{
 
 .botao_inicio{
     text-decoration: none;
-    background-color: #349329; 
-    color: #fff1de;
-    border: none;
+    background-color: #fff1de; 
+    border: #349329;
+    color: #349329;
     padding: 15px 30px;
     font-size: 16px;
     border-radius: 5px;
@@ -43,9 +43,9 @@ body{
 }
 
 .botao_inicio:hover {
-    background-color: #fff1de; 
-    border: #349329;
-    color: #349329;
+    background-color: #349329; 
+    color: #fff1de;
+    border: none;
     border-radius: 5px;
     transform: scale(1.05);
 }
