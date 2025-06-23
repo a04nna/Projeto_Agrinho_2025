@@ -24,7 +24,7 @@ body{
 
 .titulo_inicio{
     font-size: 4rem;
-    color: #1a3c2f;
+    color: var(--verde_texto);
     text-transform: uppercase;
     margin: 20px 5px 10px 5px;
 }
