@@ -49,6 +49,14 @@ body{
   transform: scale(1.05);
 }
 
+.ondinha{
+    height: 2rem;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 /* .botao_inicio{
     color: #fff1de;
     background-color: #349329;
