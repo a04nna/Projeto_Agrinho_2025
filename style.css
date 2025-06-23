@@ -26,7 +26,7 @@ body{
     font-size: 4rem;
     color: var(--verde_texto);
     text-transform: uppercase;
-    margin: 20px 5px 10px 5px;
+    margin: 50px 5px 10px 5px;
 }
 
 .texto_inicio{
