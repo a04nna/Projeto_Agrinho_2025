@@ -28,33 +28,6 @@ body{
 }
 
 .botao_inicio{
-    text-decoration: none;
-    background-color: #fff1de; 
-    border: #349329;
-    color: #349329;
-    padding: 15px 30px;
-    font-size: 16px;
-    border-radius: 5px;
-    cursor: pointer;
-    transition: background-color 0.3s ease, transform 0.2s ease;
-}
-
-.botao_inicio:hover {
-    background-color: #349329; 
-    color: #fff1de;
-    border: none;
-    border-radius: 5px;
-    transform: scale(1.05);
-}
-
-.ondinha{
-    height: 10px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-/* .botao_inicio{
     color: #fff1de;
     background-color: #349329;
     border: none;
@@ -70,4 +43,11 @@ body{
   background-color: #fff1de; 
   color: #349329; 
   border: 2px solid #349329;
+}
+
+.ondinha{
+    height: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
